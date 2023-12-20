@@ -1,0 +1,1 @@
+[{"nombre":"Joan","apellidos":"Bordonaba","email":"joan.bordonaba@gmail.com","password":"asdf","nickname":"bordo"},{"nombre":"Bernabe","apellidos":"Alcala","email":"bernabe@gmail.com","password":"asdf","nickname":"Berni"}]
